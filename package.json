@@ -1,0 +1,18 @@
+{
+  "name": "sqlite-amalgamation",
+  "version": "3.20.1",
+  "description": "An in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.",
+  "repo": "LeakyAbstractions/sqlite-amalgamation",
+  "src": [
+    "shell.c",
+    "sqlite3.c",
+    "sqlite3.h",
+    "sqlite3ext.h"
+  ],
+  "keywords": [
+    "sqlite",
+    "library",
+    "sqlite-amalgamation",
+    "cmake"
+  ]
+}
